@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "dinCondensed";
+  src: url("./fonts/dinCondensed.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "GillSans";
+  src: url("./fonts/GillSans.ttc") format("type");
+}
